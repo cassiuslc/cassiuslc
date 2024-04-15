@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Sou Cassius Leon</h1>
-<h3 align="center">sou desenvolvedor de sistemas fullstack. Tenho como objetivo aprofundar-me nas áreas de inovação, pesquisa e criação de projetos.</h3>
+<h3 align="center">Desenvolvedor de sistemas Fullstack. Tenho como objetivo aprofundar-me nas áreas de inovação, pesquisa e criação de projetos.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassiuslc" alt="cassiuslc" /></a> </p>
 
