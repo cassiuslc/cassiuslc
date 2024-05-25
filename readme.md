@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassiuslc" alt="cassiuslc" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando [HUB de Serviços da OAB](https://hub.oabam.org.br/)
+- 🔭 Atualmente estou trabalhando: Na [Systock](https://systock.com.br/) anteriormente era responsavel pelo [HUB de Serviços da OAB](https://hub.oabam.org.br/)
 
-- 🌱 Atualmente estou aprendendo **Next react**
+- 🌱 Atualmente estou aprendendo **Nest.JS (Framework do node) e melhorando meus conhecimento em menssageria(kafka)**
 
-- 💬 Pergunte-me sobre **vue, laravel, nuxt, docker, ambiente server em Linux e novas tecnologias**
+- 💬 Pergunte-me sobre **PHP, Laravel, Vue.js, Nuxt.js, React, docker ou algum assunto da cultura pop**
 
 - 📫 Como entrar em contato comigo **cassiuslc.dev@gmail.com**
 
