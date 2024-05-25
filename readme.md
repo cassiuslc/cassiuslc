@@ -34,11 +34,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=cassiuslc&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 
 </div>
-###
 
 <h6 align="center">Contato: cassiuslc.dev@gmail.com</h6>
-
-###
 
 <div align="center">
   <a href="https://www.instagram.com/cassiuslc" target="_blank">
