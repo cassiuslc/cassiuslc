@@ -10,6 +10,23 @@
 
 ###
 
+<h6 align="center">Contato: cassiuslc.dev@gmail.com</h6>
+
+<div align="center">
+  <a href="https://www.instagram.com/cassiuslc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/cassiuslc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:cassiuslc@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://dev.to/cassiuslc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+</div>
+
 <h5 align="left">Minha Stack Principal</h5>
 
 ###
@@ -39,6 +56,17 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
 </div>
+<br><br>
+<div align="center">
+  
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+  
+</div>
 
 ### 📊 GitHub Stats:
 <div align="center">
@@ -58,19 +86,5 @@
 
 </div>
 
-<h6 align="center">Contato: cassiuslc.dev@gmail.com</h6>
+[![](https://visitcount.itsvg.in/api?id=cassiuslc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href="https://www.instagram.com/cassiuslc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/cassiuslc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:cassiuslc@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://dev.to/cassiuslc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-</div>
