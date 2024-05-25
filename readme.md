@@ -24,24 +24,16 @@
 
 <h5 align="left">Stack em Geral</h5>
 
-###
-
+### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  
+![](https://github-readme-streak-stats.herokuapp.com/?locale=pt-br&user=cassiuslc&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?locale=pt-br&username=cassiuslc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cassiuslc&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/cassiuslc/cassiuslc/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h6 align="center">Contato: cassiuslc.dev@gmail.com</h6>
@@ -62,12 +54,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cassiuslc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiuslc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
