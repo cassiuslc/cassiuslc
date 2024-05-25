@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Tenho como objetivo aprofundar-me nas áreas de inovação, pesquisa e criação de projetos atuando principalmente como desenvolvedor.<br><br>🔭 Atualmente estou trabalhando: Na Systock anteriormente era responsavel pelo HUB de Serviços da OAB<br><br>🌱 Atualmente estou aprendendo Nest.JS (Framework do node) e melhorando meus conhecimento em mensageria (kafka)</p>
+<p align="left">
+  Tenho como objetivo aprofundar-me nas áreas de inovação, pesquisa e criação de projetos atuando principalmente como desenvolvedor.<br><br>
+  🔭 Atualmente estou trabalhando: Na [Systock](https://systock.com.br/) anteriormente era responsavel pelo [HUB de Serviços da OAB](https://hub.oabam.org.br/secretaria)
+  <br><br>
+  🌱 Atualmente estou aprendendo Nest.JS (Framework do node) e melhorando meus conhecimento em mensageria (kafka)</p>
 
 ###
 
